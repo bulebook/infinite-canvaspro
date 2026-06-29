@@ -233,7 +233,7 @@ export function AppConfigModal() {
                         children: (
                             <Form layout="vertical" requiredMark={false}>
                                 <div className="mb-3 rounded-lg border border-stone-200 p-3 dark:border-stone-800">
-                                    <div className="text-sm font-semibold mb-2">å¿«éæ·»å ï¼ç¹å»èªå¨å¡«åï¼</div>
+                                    <div className="text-sm font-semibold mb-2">å¿«éæ·快速添加（点击自动填充）</div>
                                     <div className="flex flex-wrap gap-2">
                                         {API_PRESETS.map(preset => (
                                             <Button key={preset.id} size="small" onClick={() => addPresetChannel(preset.id)} title={preset.description}>
