@@ -1,0 +1,14 @@
+{
+  "/(user)/assets/page": "/assets",
+  "/(user)/canvas/[id]/page": "/canvas/[id]",
+  "/(user)/canvas/page": "/canvas",
+  "/(user)/image/page": "/image",
+  "/(user)/page": "/",
+  "/(user)/prompts/page": "/prompts",
+  "/(user)/video/page": "/video",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/prompts/route": "/api/prompts",
+  "/favicon.ico/route": "/favicon.ico",
+  "/webdav-proxy/route": "/webdav-proxy"
+}

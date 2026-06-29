@@ -1,0 +1,8 @@
+node_modules/
+node.exe
+app.zip
+app.zip.b64
+InfiniteCanvas_Setup.bat
+*.b64
+_gen.js
+mingit*

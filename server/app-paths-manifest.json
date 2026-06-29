@@ -1,0 +1,14 @@
+{
+  "/(user)/assets/page": "app/(user)/assets/page.js",
+  "/(user)/canvas/[id]/page": "app/(user)/canvas/[id]/page.js",
+  "/(user)/canvas/page": "app/(user)/canvas/page.js",
+  "/(user)/image/page": "app/(user)/image/page.js",
+  "/(user)/page": "app/(user)/page.js",
+  "/(user)/prompts/page": "app/(user)/prompts/page.js",
+  "/(user)/video/page": "app/(user)/video/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/prompts/route": "app/api/prompts/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/webdav-proxy/route": "app/webdav-proxy/route.js"
+}
